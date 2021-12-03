@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: postgres
+    password: 1111
+    url: jdbc:postgresql://localhost:5432/qr_code
+
+server:
+  port: 2021
